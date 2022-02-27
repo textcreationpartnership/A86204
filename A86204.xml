@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Queens Majesties message and declaration to the Right Honourable the Peers of England, assembled in Parliament; concerning the Kings Majesty, and the army; presented by another embassadour from France the 9 of this instant. MDCXLIX. And the declaration of the House of Peeres concerning the King; with the proceedings of the Commons, and what government shall be established, a new Broad Seal to be erected, which is to have ingraven on the one side, the House of Commons; on the other, the arms of England &amp; Ireland. With severall new proposals from the citizens of London, to the Common councell, concerning the tryal of the King. A declaration of the General Councel of the army, concerning Mr. Wil: Pryn, and the rest of the secluded members; and his excellencies declaration concerning the King, and all those who have assisted him. Subscribed, T. Fairfax. Published by authority.</title>
+            <author>Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86204</idno>
+            <idno type="STC">Wing H1462</idno>
+            <idno type="STC">Thomason E538_7</idno>
+            <idno type="STC">ESTC R206022</idno>
+            <idno type="EEBO-CITATION">99865228</idno>
+            <idno type="PROQUEST">99865228</idno>
+            <idno type="VID">117465</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117465)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Queens Majesties message and declaration to the Right Honourable the Peers of England, assembled in Parliament; concerning the Kings Majesty, and the army; presented by another embassadour from France the 9 of this instant. MDCXLIX. And the declaration of the House of Peeres concerning the King; with the proceedings of the Commons, and what government shall be established, a new Broad Seal to be erected, which is to have ingraven on the one side, the House of Commons; on the other, the arms of England &amp; Ireland. With severall new proposals from the citizens of London, to the Common councell, concerning the tryal of the King. A declaration of the General Councel of the army, concerning Mr. Wil: Pryn, and the rest of the secluded members; and his excellencies declaration concerning the King, and all those who have assisted him. Subscribed, T. Fairfax. Published by authority.</title>
+                  <author>Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. VVhite, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 12. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Prynne, William, 1600-1669 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117465:1" rendition="simple:additions"/>
+            <p>The Queens Majeſties MESSAGE AND DECLARATION <hi>TO</hi> The Right Honourable the Peers of <hi>England,</hi> aſſembled in <hi>Parlament;</hi> concerning the Kings Majeſty, and the Army; preſented by another Embaſſadour from <hi>France,</hi> the 9 of this inſtant MDCXLIX.</p>
+            <p>AND The Declaration of the Houſe of Peeres concerning the <hi>King;</hi> with the proceedings of the Commons, and what Government ſhall be eſtabliſhed, a new Broad Seal to be erected, which is to have ingraven on the one ſide, the Houſe of Commons; on the other, the Arms of <hi>England</hi> &amp; <hi>Ireland.</hi>
+            </p>
+            <p>With ſeverall new Propoſals from the Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> to the Common-councell, concerning the tryal of the KING.</p>
+            <p>A Declaration of the General Councel of the <hi>Army,</hi> con<g ref="char:EOLhyphen"/>cerning Mr. <hi>Wil: Pryn,</hi> and the reſt of the ſecluded Mem<g ref="char:EOLhyphen"/>bers; and his Excellencies Declaration concer<g ref="char:EOLhyphen"/>ning the <hi>King,</hi> and all thoſe who have aſſiſted Him.</p>
+            <p>Subſcribed, T. FAIRFAX.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>Printed for <hi>L. VVhite,</hi> and are to be ſold in the Old-Bayley.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117465:2"/>
+            <pb n="1" facs="tcp:117465:2"/>
+            <head>A Declaration of the PEERS OF ENGLAND To the <hi>Kingdome;</hi>
+            </head>
+            <head type="sub">Wherein they declare That no Act of the Commons houſe is binding, not being conſented unto by the Lords in Parliament.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>ON Tueſday the 9 inſtant, divers of the Lords met, and aſſembled in the houſe of Peers, where they fell into debate upon ſeverall things, in relation to their late Vote, that the <hi>King</hi> could not commit treaſon a<g ref="char:EOLhyphen"/>gainſt the <hi>Parliament,</hi> which they ſtill perſiſt in: After ſome debate therupon, they took into further conſideration
+<pb n="2" facs="tcp:117465:3"/> the chief reaſons and motives which did induce them there unto, and had ſome further debate, that a Committee draw up a Declaration to the Kingdom, which ſhall give reaſons why they rejected the Commiſſion for tryall of the <hi>Kings</hi> and to draw up another Declaration to the Kingdome, in which they are given to underſtand, that no Act of the Commons houſe is binding, not being conſented unto by the Lords in Parliament And the 10. of this inſtant, they ſat a while, and adjorn'd, but proceeded not upon the ſubject in debate the day before.</p>
+                  <p>The day before they adjornd, the French Embaſſadour had audience in the Houſe of Peers, where he preſented a de<g ref="char:EOLhyphen"/>claratory meſſage from the Queene of <hi>England</hi> to their Lordſhips, purporting, <hi>That ſhe earnestly deſired, that their Lordſhips would bee pleaſed to admit of her comming into England, for the viſiting of the Kings Majeſty, before his being brought to tryall, and that ſhe might have aſſurance of her ſafe return.</hi> But their Lordſhips reſolved to lay it aſide, and not to inſiſt thereon at preſent.</p>
+                  <p>The houſe of Commons (after ſome time ſpent in debate what kind of Government to erect in England) agreed to have a new broad Seal brought in forthwith, which is to have ingraven on the one ſide the houſe of Commons; on the other, the Arms of <hi>England</hi> and <hi>Ireland,</hi> round, ſhall be impreſſed the year of its originall, as the firſt of freedom or liberty to the people.</p>
+                  <p>Divers of the moſt eminent Lords that have ſerved the <hi>King</hi> in the late difference, have preſented a meſſage, and of<g ref="char:EOLhyphen"/>fered to his Excellency the Lord General <hi>Fairfax,</hi> an aſſu<g ref="char:EOLhyphen"/>rance. That his <hi>Majeſty</hi> ſhall ſigne what offered at the trea<g ref="char:EOLhyphen"/>ty, and elſe, as ſhall be deſired,</p>
+                  <pb n="3" facs="tcp:117465:3"/>
+                  <p>Letters from the North ſay, that the Scots are exceeding weary of warlike commotions, and deſires to negotiate with the two Houſes of Parliament, and his Excellency the Lord Gen. <hi>Fairfax,</hi> in behalf of their dread Soveraign, to the end, that no proſecution fo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tryall, may bee put in execution a<g ref="char:EOLhyphen"/>gainſt his royal perſon, without the advice and concurrence of that Nation thereto, and that nothing be done or acted, contrary to the Solemn League and Covenant between the two Kingdoms. Our intelligence from thence further ſaith, That divers of the Scottiſh peers have tranſmitted a Meſ<g ref="char:EOLhyphen"/>ſage to the Kings Majeſty, intimating, <hi>Their loyalty and affe<g ref="char:EOLhyphen"/>ction to his Royall perſon, and their Reſolution to leave no means unaeſsayed, for the advancing his Honour and Great<g ref="char:EOLhyphen"/>neſſe.</hi> But notwithſtanding their great forwardneſſe, to make the Royal party glorious, yet there are many diſſenting Bre<g ref="char:EOLhyphen"/>thren amongſt them, who are reſolved to confide with the parliament of England and the Army. The revolutions and tranſactions of affairs in this kingdom, now give a caution to all the well-affected in our Neighbour Nation, to carry a ſtrong hand, and an Eagles eye, over the proceedings of the Adverſe party. We hear of a new ſtorme ariſing in Lanca<g ref="char:EOLhyphen"/>ſhire, and of great under hand liſting there; but the well-affected are putting themſelves in a poſture to receive them and have in readineſſe 4000 Horſe and Foot to attend their motion. We hear that the honeſt party in the Weſt of <hi>England</hi> have alſo put themſelves into a poſture of defence, and have raiſed and liſted 12000 Horſe and Foot, to ingage with the parliament and army (upon any occaſion) for com<g ref="char:EOLhyphen"/>mon Juſtice, Freedom, and Safety, and for promoting the Remonſtrance of the Army, to the end, that impartiall Ju<g ref="char:EOLhyphen"/>ſtice may be executed upon the capitall Enemy of this Na<g ref="char:EOLhyphen"/>tion.</p>
+                  <closer>
+                     <dateline>Leeds <date>8. Jan: 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:117465:4"/>
+                  <p>The Generall councell of the Army gave reaſons to the common concerning their ſecuring, and ſecluding of the Members of Parliament (which Mr. <hi>Pryn</hi> ſayth are above 200 in number) <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for your better ſatisfaction for ſo much as I ſhall make uſe <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> this kind, I ſhall give you in the Officers own words, <hi>vizt.</hi>
+                  </p>
+                  <p>Firſt, for thoſe Members who are yet detained in cuſtody, they are either ſuch who have beene formerly impeached, and (in part) judged by the houſe for treaſon, or other high crimes, and never ac<g ref="char:EOLhyphen"/>quitted; and againſt whom we can and very ſhortly ſhall produce new matter of no leſſe crime: or elſe ſuch who have appeared moſt active and united in Councells with them, againſt whom alſo we are preparing, and ſhall ſhortly give matters of particular impeach<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>Secondly, For thoſe others who have beene wi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hheld by the Guard from comming into the houſe, as nothing but ſuch neceſſity, as a<g ref="char:EOLhyphen"/>foreſaid, and the clear denyall of any ground of diſtinction by vo<g ref="char:EOLhyphen"/>luntary diſcrimination admitted amongſt your ſelves, ſhould have made us in ſuch manner to exerciſe our own judgement and power in the caſe; ſo you having ſince by your Reſolutions of the 12 and 13 of December laſt, declared many of thoſe Votes (wherein chief<g ref="char:EOLhyphen"/>ly the publike intereſt hath been of late diſerted) to be diſhonou<g ref="char:EOLhyphen"/>rable and deſtructive: and having admitted the entring diſſents a<g ref="char:EOLhyphen"/>gainſt the Vote of December the 5 laſt, wherein the will of all the reſt ſeemes comprehended and cloſed up (as farre as God would ſuffer it to proceed,) and many faithfull Members having thereup<g ref="char:EOLhyphen"/>on publikely declared, and entred their diſſents from the ſame; By which means there are now clearer grounds of diſcrimination be<g ref="char:EOLhyphen"/>gun amongſt your ſelves, and a competent number of Members, of whom by their diſſents regiſtred, we can publikely take notice of men ſtanding entire to the publike truſt, and in whoſe judgements we may repoſe: We ſhall therefore henceforth forbear to proceed any further in the excluſion of any upon our own judgement or in<g ref="char:EOLhyphen"/>formation gained from without, and ſhall refer to the knowledge and judgement of thoſe whoſe diſſents from that Vote already an<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, or hereafter ſhall be entred, both to conſider what other Members have ſtood clear from the ſeries of thoſe corrupt Councels; you have ſo declared againſt, and who have been notoriouſly guilty thereof, and accordingly to determine which ſhall be readmitted
+<pb facs="tcp:117465:4"/> as having kept to their truſt, and which excluded, as having diſer<g ref="char:EOLhyphen"/>ted the ſame. But wee moſt earneſtly deſire, as you tender the good and quiet of the Kingdome, with the eaſing the burthens and ending the troubles thereof, and would for the time this Parlia<g ref="char:EOLhyphen"/>ment ſhall continue, prevent an irrecoverable relapſe of all things into their former miſerable condition, and avoid the numerous evils and endleſſe troubles, which the renewed prevailing of the ſame corrupt Councels, or but of like diviſions and unſetledneſſe in your Councels, would evidently produce; that therefore you would reſolve to exclude henceforth from the houſe, and make the ſtrickteſt caution, and proviſion, to keep out all ſuch who are known to have carried on, or to be guilty of that ſeries of corrupt Votes which you have ſo juſtly branded, as aforeſaid, and that none may be readmitted amongſt you, who ſhall not either by their own pro<g ref="char:EOLhyphen"/>teſts, or upon your certain knowledge, be pareicularly acquitted there-from.</p>
+                  <closer>
+                     <dateline> 
+                        <date>
+                           <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 8. 1648,</date>
+                     </dateline> 
+                     <signed>Signed in the name, and by the appoint<g ref="char:EOLhyphen"/>ment of the General of the Officers of the Army. <hi>JO. RUSHWORTH</hi>Secr.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The reſt of the day was ſpent in debate on the manner of pro<g ref="char:EOLhyphen"/>ceedings at Law, and in what name proceſſes ſhall iſſue forth, all Writts at Common Law iſſuing forth in the Kings name by our NORMAN Lawes: but this came not to any reſult.</p>
+            <p>Yet before I proceed any further, I ſhall re-mind you of divers things which have been acted within four weeks, which the peo<g ref="char:EOLhyphen"/>ple failed in their expectation of, for above four yeares before, <hi>viz.</hi> The removing the cauſe of the manifold obſtructions which conti<g ref="char:EOLhyphen"/>nually happened when any great buſineſſe was moved in the houſe. 2. The taking away the negative power of the King and Lords, which the people did attribute to be the cauſe, why former Parlia<g ref="char:EOLhyphen"/>ments were called and diſſolved (after the peoples purſes were drai<g ref="char:EOLhyphen"/>ned) without giving any redreſſe in publike grievances heard and redreſſed.</p>
+            <p n="2">2ly. That there may be a freedome in Trade and commerce, all Monopolies ceaſe, and no man to ſuffer by any Law, againſt which he hath not tranſgreſſed,</p>
+            <div type="part">
+               <pb n="2" facs="tcp:117465:5"/>
+               <head>The Propoſals of the City of <hi>London.</hi>
+               </head>
+               <p n="1">1 That impartial Juſtice may be executed upon all offen<g ref="char:EOLhyphen"/>ders either by Land or Sea, who have been Actors or Abet<g ref="char:EOLhyphen"/>tors in the former or late wars, and that from the higheſt to the loweſt without reſpect of perſons. 2 That all places of power and truſt in the kingdom and Navy, may be intruſted in the hands of thoſe perſons that may be ſafely confided in, for their known and approved fidelity. 3 That ſome effe<g ref="char:EOLhyphen"/>ctuall courſe may bee taken for recovering the almoſt loſt Trade of the City and Kingdom.</p>
+            </div>
+            <div type="part">
+               <head>His Excellencies Declaration.</head>
+               <p>Theſe are to require all perſons who have ingaged for the King in the firſt or ſecond war, and have adhered unto or aſ<g ref="char:EOLhyphen"/>ſiſted him, or his party therein, and are now reſiding in Lon<g ref="char:EOLhyphen"/>don, or within ten miles diſtant therefrom, that within <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hours after the publication hereof, they depart from the ſaid City and Suburbs, and all places within ten miles di<g ref="char:EOLhyphen"/>ſtance thereof, and not to return for the ſpace of one month next enſuing, after the publication hereof; and whoſoever ſhall be found and taken contrary hereuntu, they ſhall bee dealt withall as priſoners of war, except ſuch as are excep<g ref="char:EOLhyphen"/>ted in the Order of Parliament.</p>
+               <closer>
+                  <signed>Subſcribed, T. FAIRFAX.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
